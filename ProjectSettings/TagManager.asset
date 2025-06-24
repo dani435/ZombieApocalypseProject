@@ -1,0 +1,87 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Enemy
+  - Invisible
+  - PickUpObject
+  - Solid
+  - Water
+  - Ally
+  - Points
+  - Minigun
+  - Katana
+  - PlusDamage
+  - PlusSpeed
+  - FastReloading
+  - PlusHealth
+  - BulletHole
+  - AK47
+  - Door1
+  - Medikit
+  - Elicopter
+  - Door2
+  - Pistol
+  - AKAmmo
+  - PistolAmmo
+  - Step
+  - InvisiblePU
+  - Boss
+  - Muro
+  - Shotgun
+  - ShotgunAmmo
+  - SMG
+  - SMGAmmo
+  - ShotgunShop
+  - Ak47Shop
+  - SMGShop
+  - PistolShop
+  - ShotgunUI
+  - PistolUI
+  - AK47UI
+  - SMGUI
+  - Weapons
+  - Rocket
+  - RocketAmmo
+  - RocketUI
+  - RocketShop
+  - Death
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - Player
+  - Water
+  - UI
+  - PowerUP
+  - Weapon
+  - Cancello
+  - Enemy
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0

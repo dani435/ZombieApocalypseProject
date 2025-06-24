@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: dfe96d92a1c024343b8b83e544da9eee
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - aKAmmo: {fileID: 174858, guid: 83c5f544b37aada4992e843d30776b2c, type: 3}
+  - pistolAmmo: {fileID: 144828, guid: b68885c1f6fbbf840bc5c53e9ec8c8b6, type: 3}
+  - food: {fileID: 120558, guid: f344b7f2d0426604599821e9d21babff, type: 3}
+  - water: {fileID: 130158, guid: fe6c2665b8f2e8b408e15ca5405e6729, type: 3}
+  - powerUp: {fileID: 2428494332685312093, guid: bedef8baa3e079a44a62a34a63b3c2d2, type: 3}
+  - shotgunAmmo: {fileID: 128406, guid: 3f79b0dd3edea354ea7f2732e57b9813, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

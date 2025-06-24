@@ -1,0 +1,47 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 0
+    path: Assets/Scenes/Menu.unity
+    guid: 4739e9ce5ec3e0744a98986f747282b1
+  - enabled: 0
+    path: Assets/Scenes/PlayerMovement.unity
+    guid: 9fc0d4010bbf28b4594072e72b8655ab
+  - enabled: 0
+    path: Assets/Scenes/Enemy AI.unity
+    guid: baea5cbe4d5922446a52a79c3c3ddd40
+  - enabled: 0
+    path: Assets/Scenes/Invincible.unity
+    guid: 0c73bf43c66f43f47aae9c202e8ef86a
+  - enabled: 0
+    path: Assets/Scenes/Invisibility.unity
+    guid: 62566edb9f90fb745abaf562fe6958c9
+  - enabled: 0
+    path: Assets/Scenes/Weapons.unity
+    guid: 61c807e6ca49a9d40b710679b41f6125
+  - enabled: 0
+    path: Assets/Scenes/GetHealth.unity
+    guid: 8ffbc780d6135774c8387e629fe5ea09
+  - enabled: 0
+    path: Assets/Scenes/Converter.unity
+    guid: 647df74959409e94fa93f67901e26bcb
+  - enabled: 0
+    path: Assets/Scenes/MiniGun.unity
+    guid: 4e435cf38e6f4fe429783b3fe522b57a
+  - enabled: 1
+    path: Assets/Scenes/GameMenu.unity
+    guid: 76f2d47c543e455419926f8eadec626c
+  - enabled: 1
+    path: Assets/Scenes/winUI.unity
+    guid: 3c103d562f26e4c4c851f01b67c3be9a
+  - enabled: 1
+    path: Assets/Scenes/DeathUI.unity
+    guid: 3fb3e6277b21aa743a8e69e85b1b9135
+  - enabled: 1
+    path: Assets/Scenes/Map.unity
+    guid: 0dd0a80de1e076d4c883fbfa8f9a04ba
+  m_configObjects: {}
